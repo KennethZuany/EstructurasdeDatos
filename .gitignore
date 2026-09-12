@@ -1,0 +1,38 @@
+# Java / Maven / Gradle
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+# Build directories
+bin/
+build/
+out/
+target/
+.gradle/
+.gradle-cache/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled temp files
+*.tmp
+
+# Local environment files
+.env
+.env.*
